@@ -1,0 +1,29 @@
+{
+  "name": "testimony-card",
+  "authors": [
+    "Smail KOURTA <gs_kourta@esi.dz>"
+  ],
+  "description": "A material themed card to hold GDEs testimonies for GDG Algiers Website",
+  "main": "testimony-card.html",
+  "keywords": [
+    "GDE",
+    "GDG",
+    "GDG_Algiers",
+    "Polymer",
+    "Testimony"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-card": "PolymerElements/paper-card#^2.1.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^2.1.1"
+  }
+}
