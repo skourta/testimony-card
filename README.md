@@ -5,4 +5,4 @@ name: name of the GDE.
 quote: GDE's quote.  
 picture-src: src of the profile pic of the GDE (should be squared).  
 specialty: GDE's specialty.  
-font-size: The quote's size (preferably set with vw).  
+font-size: The quote's size (preferably set with em).  
